@@ -1,0 +1,318 @@
+#navItem1 {
+  color: #ffffff;
+  font-family: "Roboto";
+}
+
+#navItem2 {
+  color: #ffffff;
+  font-family: "Roboto";
+}
+
+#navItem3 {
+  color: #ffffff;
+  font-family: "Roboto";
+}
+
+#navItem4 {
+  color: #ffffff;
+  font-family: "Roboto";
+}
+
+.head {
+  color: #3dd4ca;
+
+}
+
+.home-portfolio-section {
+  background-color: #D8DEF1;
+  padding: 66px;
+}
+
+.img {
+  width: 615px;
+  height: 550px;
+  padding: 50px;
+  margin: 50px;
+}
+
+
+.home-portfolio-section-para {
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 18px;
+}
+
+.home-portfolio-section-heading {
+  color: #1C0444;
+  font-size: 46px;
+  font-family: Luckiest Guy;
+  font-weight: bold;
+}
+
+.sp {
+  color: #FF0909;
+  font-size: 46px;
+  font-family: Luckiest Guy;
+  font-weight: bold;
+}
+
+.home-portfolio-section-subpara {
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 19px;
+}
+
+.contact-button {
+  background-color: #FF0909;
+  font-family: "Roboto";
+  font-size: 16px;
+  border-width: 0px;
+  padding: 6px;
+  color: #ffffff;
+}
+
+.home-portfolio-section-description {
+
+  margin: 50px;
+  padding: 50px;
+  margin-left: 120px;
+}
+
+
+
+.about-section {
+  background-color: #F5F5F5;
+  padding: 66px;
+  background-size: cover;
+
+}
+
+.about-section-heading {
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 36px;
+}
+
+.about-section-para {
+  color: #000000;
+  font-family: "Roboto";
+}
+
+.button1 {
+
+  background-color: #847B7B;
+  font-size: 16px;
+  border-width: 0px;
+  padding: 8px;
+  color: #ffffff;
+
+}
+
+.image {
+
+  width: 492.07px;
+  height: 438.92px;
+
+}
+
+.button2 {
+
+  background-color: #FF0909;
+  font-size: 16px;
+  border-width: 0px;
+  padding: 8px;
+  color: #ffffff;
+
+}
+
+.about-section-description {
+
+  margin: 50px;
+  padding: 50px;
+}
+
+.follow-bg-container {
+
+  background-color: #9BC9D3;
+}
+
+.follow-us-section-heading {
+  text-align: center;
+  color: #FF0909;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.follow-us-icon-container {
+  background-color: #faf7e8;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+
+.icon {
+  color: #d0b200;
+  font-size: 35px;
+}
+
+.insta {
+
+  margin-top: 70px;
+  font-size: 18px;
+
+}
+
+#fa {
+  margin-right: 1500px;
+}
+
+.follow-us-icon-container {
+  margin: 0 10px;
+}
+
+.icon {
+  font-size: 2rem;
+  margin-bottom: 5px;
+}
+
+.insta {
+  text-align: center;
+}
+
+.follow-bg-container {
+  background-color: #9BC9D3;
+}
+
+.follow-us-icon-container {
+  margin: 0 10px;
+}
+
+.icon {
+  font-size: 2rem;
+  margin-bottom: 5px;
+  color: #000;
+}
+
+.social-name {
+  font-size: 1rem;
+  color: #000;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.follow-us-icon-container {
+  margin: 0 15px;
+}
+
+.icon {
+  font-size: 2rem;
+  color: #000;
+}
+
+.social-name {
+  font-size: 1rem;
+  color: #000;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.follow-us-icon-container {
+  margin: 0 10px;
+}
+
+.icon {
+  font-size: 2rem;
+  color: #000;
+}
+
+.social-name {
+  font-size: 1rem;
+  color: #000;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.img-section img,
+.about-section img {
+  max-width: 100%;
+  height: auto;
+}
+
+.home-portfolio-section,
+.about-section {
+  padding: 1rem;
+}
+
+
+.navbar-brand h1 {
+  font-size: 1.5rem;
+}
+
+.navbar-toggler {
+  margin-top: 5px;
+}
+
+
+.home-portfolio-section .container,
+.about-section .container,
+.follow-us-section .container {
+  padding: 0 15px;
+}
+
+.contact-button,
+.button1,
+.button2 {
+  width: 100%;
+  margin-top: 10px;
+}
+
+
+.follow-us-icon-container {
+  margin: 0 5px;
+}
+
+.follow-us-section-heading {
+  font-size: 1.5rem;
+}
+
+
+.healthy-food-section-heading,
+.about-section-heading {
+  font-size: 1.8rem;
+}
+
+
+@media (max-width: 576px) {
+  .navbar-nav {
+    text-align: center;
+  }
+
+  .follow-us-icon-container {
+    margin-bottom: 10px;
+  }
+
+  .home-portfolio-section .row,
+  .about-section .row {
+    flex-direction: column-reverse;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.im{
+  width: 140px;
+  height: 60px;
+}
+
+.tej{
+  color: #3dd4ca;
+  text-align: center;
+  font-family: "roboto";
+}
